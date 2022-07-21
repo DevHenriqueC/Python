@@ -1,4 +1,4 @@
-n = int(input("Verificar numeros primos ate: "))
+n = int(input("Verificar numeros primos: "))
 mult=0
 
 for count in range(2,n):
